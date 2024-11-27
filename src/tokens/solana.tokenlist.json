@@ -1,8 +1,9 @@
 {
   "name": "GodsCoin",
+  "address": "HCkgUiPAhUSLtgYUs1QJ5TuCQWkJYgmv6qbMY6B6v5vH",
   "symbol": "GDC",
   "description": "Holy Coin",
-  "image": "https://nftstorage.link/ipfs/bafkreicfhc7spp6pghwlfnryllhluipbye3q3rorvop7ggbionbu77ifle",
+  "logoURI": "https://nftstorage.link/ipfs/bafkreicfhc7spp6pghwlfnryllhluipbye3q3rorvop7ggbionbu77ifle",
   "properties": {
     "files": [
       {
